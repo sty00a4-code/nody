@@ -63,8 +63,8 @@ The language is pretty strict with it's types, even though it's interpreted.
 
 # Contact
 
-**Discord**: `sty#8189`
+**Discord**: `sty00a4#8189`
 
-**Gmail**: `reutervincent6@gmail.com`
+**Gmail**: `sty00a4.code@gmail.com`
 
 Help is always welcome!
